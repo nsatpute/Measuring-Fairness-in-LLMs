@@ -28,3 +28,11 @@ Counterfactuals/
 Examination of outcomes if different choices had been made.
 Role Playing/
 Scenario-based roleplaying to understand different perspectives.
+
+Authors
+Namrata Satpute,
+Zaheer Soleh,
+Meghana Nekkanti,
+Bader Aleidan,
+Zineng Mao,
+Zhixing Li
