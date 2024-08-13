@@ -29,7 +29,7 @@ Examination of outcomes if different choices had been made.
 Role Playing/
 Scenario-based roleplaying to understand different perspectives.
 
-Authors
+Authors:
 Namrata Satpute,
 Zaheer Soleh,
 Meghana Nekkanti,
